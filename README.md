@@ -23,6 +23,7 @@ This dashboard provides a unified view of HR metrics through:
 - **Trend visualization** for historical perspective
 - **Department-level insights** for targeted interventions
 
+
 ## 📈 Key Metrics Tracked
 
 ### Workforce Overview
@@ -99,24 +100,6 @@ The analysis uses `HRDataset_v14.xlsx` containing comprehensive employee records
 - Optimize recruitment strategies based on source effectiveness
 - Conduct compensation analysis to ensure equity across demographics
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Power BI Desktop (latest version)
-- HRDataset_v14.xlsx file in project directory
-
-### Installation
-1. Clone this repository
-2. Open `HR_Dashboard.pbix` in Power BI Desktop
-3. Ensure dataset path is correctly configured
-4. Refresh data connection to load latest information
-
-### Customization
-- Modify DAX measures for different KPIs
-- Adjust color schemes to match corporate branding
-- Add new data sources through Power Query
-- Create additional visualizations as needed
-
 ## 📁 Project Structure
 ```
 HR-Dashboard/
@@ -141,3 +124,4 @@ This project welcomes contributions and suggestions. Please feel free to:
 **Built with ❤️ for better HR decision-making**
 
 *For questions or support, please open an issue in this repository.*
+
