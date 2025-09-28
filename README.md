@@ -21,3 +21,8 @@ The project uses the `HRDataset_v14.xlsx` file, which includes detailed employee
 - **Headcount by Age Bucket**: Pie chart.
 - **Yearly Headcount and Attrition**: Line and spike charts for trends over time.
 - **Headcount by Recruitment Source**: Bar chart.
+
+## How to Use
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/hr-dashboard.git
